@@ -22,8 +22,4 @@ public class HelloController {
         return model;
     }
 
-    public static void main(String[] args) {
-
-    }
-
 }
